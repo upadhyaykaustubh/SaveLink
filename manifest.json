@@ -1,0 +1,13 @@
+    {
+        "manifest_version": 3,
+        "version": "1.1",
+        "name": "Save Link",
+        "action": {
+            "default_popup": "indexx.html",
+            "default_icon": "img.png"
+        },
+        "permissions": [
+                    "tabs",
+                    "<all_urls>"
+                ]
+    }
